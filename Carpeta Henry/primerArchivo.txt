@@ -1,0 +1,1 @@
+Archivo creado a partir de la terminal de Bash
